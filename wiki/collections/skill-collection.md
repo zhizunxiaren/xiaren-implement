@@ -4,7 +4,7 @@
 
 ## Skills
 
-- [Principled Breakdown](../../skills/principled-breakdown/SKILL.md)：用苏格拉底提问法、第一性原理和奥卡姆剃刀做需求拆解、功能拆解和工程落地计划。
+- [Clarify to Build](../../skills/clarify-to-build/SKILL.md)：用苏格拉底提问法、第一性原理和奥卡姆剃刀，把模糊需求澄清到可实施、可验证的落地行动。
 
 ## Suggested Fields
 

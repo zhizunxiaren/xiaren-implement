@@ -98,5 +98,5 @@
 ## 当前状态
 
 - 2026-05-09：仓库初始化为 LLM Wiki 结构。
-- 目前已有基础 schema、索引、日志、模板、初始概念页，以及第一个 repo-local skill `skills/principled-breakdown/`。
+- 目前已有基础 schema、索引、日志、模板、初始概念页，以及第一个 repo-local skill `skills/clarify-to-build/`。
 - 下一步应开始从用户已有提示词、skills、MCP 使用经验和 harness engineering 记录中逐条入库。

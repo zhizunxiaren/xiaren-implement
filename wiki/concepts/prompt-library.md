@@ -27,10 +27,10 @@ Prompt library 是把有效提示词、失败提示词、上下文结构和验�
 
 ## 相关页面
 
+- [Clarify to Build](clarify-to-build.md)
 - [Vibe Coding](vibe-coding.md)
 - [Harness Engineering](harness-engineering.md)
 
 ## 参考资料
 
 - Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-

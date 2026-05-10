@@ -36,6 +36,7 @@ Vibe coding 是一种以 AI 协作为主线、通过快速描述意图、观察�
 
 ## 相关页面
 
+- [Clarify to Build](clarify-to-build.md)
 - [Harness Engineering](harness-engineering.md)
 - [Prompt Library](prompt-library.md)
 - [AI Engineering Landing](ai-engineering-landing.md)
@@ -43,4 +44,3 @@ Vibe coding 是一种以 AI 协作为主线、通过快速描述意图、观察�
 ## 参考资料
 
 - Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-

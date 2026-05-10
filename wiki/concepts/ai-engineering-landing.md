@@ -23,6 +23,7 @@ AI engineering landing 指把 AI 能力落到真实工程流程中，使其具�
 
 ## 相关页面
 
+- [Clarify to Build](clarify-to-build.md)
 - [Vibe Coding](vibe-coding.md)
 - [Harness Engineering](harness-engineering.md)
 - [Prompt Library](prompt-library.md)
@@ -30,4 +31,3 @@ AI engineering landing 指把 AI 能力落到真实工程流程中，使其具�
 ## 参考资料
 
 - Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-

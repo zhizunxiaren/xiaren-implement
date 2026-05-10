@@ -27,8 +27,8 @@ Skill 是 harness 的一部分。它把经验固化成可执行流程，减少 a
 
 - [Harness Engineering](harness-engineering.md)
 - [MCP](mcp.md)
+- [Clarify to Build](clarify-to-build.md)：一个 repo-local skill 示例，用于把模糊需求澄清到可实施行动。
 
 ## 参考资料
 
 - Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-

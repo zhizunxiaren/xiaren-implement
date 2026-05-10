@@ -39,9 +39,9 @@ Harness engineering 是围绕 AI agent 的执行环境进行工程化设计：�
 
 - [MCP](mcp.md)
 - [Skills](skills.md)
+- [Clarify to Build](clarify-to-build.md)
 - [AI Engineering Landing](ai-engineering-landing.md)
 
 ## 参考资料
 
 - Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-

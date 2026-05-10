@@ -51,7 +51,7 @@ Check for: orphan pages, duplicate/conflicting concepts, strong claims without s
 
 ## Repo-Local Skills
 
-Located in `skills/`. Currently: `principled-breakdown` — combines Socratic questioning, first principles, and Occam's razor for requirement/feature/implementation breakdown.
+Located in `skills/`. Currently: `clarify-to-build` — combines Socratic questioning, first principles, and Occam's razor to clarify vague requirements into implementation-ready breakdowns.
 
 ## Safety Rules (hard constraints)
 

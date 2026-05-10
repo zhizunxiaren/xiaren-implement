@@ -10,7 +10,7 @@
 - [Skills](concepts/skills.md)：面向特定任务的本地能力包和操作规程。
 - [MCP](concepts/mcp.md)：把外部系统、数据源和工具暴露给 agent 的协议与工程接口。
 - [AI Engineering Landing](concepts/ai-engineering-landing.md)：把 AI 能力落到真实工程流程中的方法、边界和验证要求。
-- [Principled Breakdown](concepts/principled-breakdown.md)：把苏格拉底提问法、第一性原理和奥卡姆剃刀组合成需求/功能/落地拆解 skill。
+- [Clarify to Build](concepts/clarify-to-build.md)：把苏格拉底提问法、第一性原理和奥卡姆剃刀组合成“澄清到落地”的需求/功能/实施拆解 skill。
 
 ## Collections
 

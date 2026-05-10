@@ -1,4 +1,0 @@
-interface:
-  display_name: "Principled Breakdown"
-  short_description: "用三原则拆解需求到落地行动。"
-  default_prompt: "使用 principled-breakdown：根据任务规模选择简化或完整输出，先用苏格拉底提问法澄清需求，再用第一性原理拆成工程原语，最后用奥卡姆剃刀裁剪复杂度，输出可实施、可验证的拆解结果。"
