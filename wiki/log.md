@@ -26,3 +26,10 @@
 - 审阅 `inbox/principled-breakdown-skill-issues.md`。
 - 接受“不适用场景”“规模对照”“提问库分组”“walkthrough 示例”四项反馈，并更新 `skills/principled-breakdown/SKILL.md`。
 - 保留 `skills/principled-breakdown/agents/openai.yaml`，因为它是 skill-creator 推荐的 OpenAI UI 元数据；同步更新默认提示，但不扩展为完整 agent 配置。
+
+## [2026-05-10] review | principled-breakdown second pass
+
+- 审阅 `inbox/principled-breakdown-skill-issues.md` 的第二轮新增问题。
+- 统一“不适用/简化/正常/完整”和“小型/中型/大型”模板命名关系。
+- 将“命令输出”改成更明确的“纯信息查询或单步命令执行”。
+- 在 walkthrough 中补充按“小型任务”模板填充后的输出示例。
