@@ -95,8 +95,3 @@ Clarify to Build（澄清到落地，旧名 Principled Breakdown）是把苏格�
 - [AI Engineering Landing](ai-engineering-landing.md)：说明从 AI 能力到真实工程落地时，为什么需要先定义边界和验收。
 - [Prompt Library](prompt-library.md)：可沉淀本 skill 产生的需求澄清、拆解和验收提示词。
 - [Vibe Coding](vibe-coding.md)：说明它如何约束 vibe coding 中容易出现的目标漂移和过度生成。
-
-## 参考资料
-
-- 用户 2026-05-09 提出的 skill 组合想法。
-- Karpathy LLM Wiki gist: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
