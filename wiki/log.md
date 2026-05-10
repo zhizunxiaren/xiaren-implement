@@ -72,3 +72,12 @@
 - 审阅并修复 `inbox/clarify-to-build-skill-issues.md` 第 20-22 项。
 - 在中型模板中新增“轻量功能拆解”，为追踪矩阵的 `F` 编号提供来源。
 - 补全中型输出粒度摘要，并在 walkthrough 中加入中型任务追踪矩阵片段。
+
+## [2026-05-10] review | clarify-to-build usage feedback
+
+- 根据用户在其他项目中实际使用 `clarify-to-build` 的反馈，新增并修复 `inbox/clarify-to-build-skill-issues.md` 第 23-25 项。
+- 在 `skills/clarify-to-build/SKILL.md` 中增加“入口判断”：新想法、现有项目或模块、单个功能、文档化请求。
+- 明确已有项目知识是重要证据来源；没有阻塞问题时可以沿用上下文生成文档，有问题、矛盾或关键缺口时先讨论确认。
+- 要求区分已知事实、当前假设和待确认问题，避免把不确定推断写成确定结论。
+- 将工作流第一步改为确认拆解对象和入口，并要求正常或完整使用时必须输出实施路径和验收检查。
+- 更新 `skills/clarify-to-build/agents/openai.yaml` 默认提示和 `wiki/concepts/clarify-to-build.md`。
